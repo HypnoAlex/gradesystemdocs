@@ -26,3 +26,6 @@ gs!random category Tapping
 ```
 <img src="random1.png" alt="Random Command 1" style="width:350px; height: 75px;"/>
 <img src="random2.png" alt="Random Command 2" style="width:350px; height: 75px;"/>
+
+# Adding the bot to your Twitch channel
+#### Since the Twitch bot is in beta for now, I am only accepting manual requests to let the bot join your Twitch channel. You can DM me through either [Twitter](https://twitter.com/AlexGH3_), or Discord (alex_#2043).
